@@ -9,7 +9,7 @@
 <br><br>Также книгу можно добавить в избранные по нажатию на звездочку в правом верхнем углу. При успешном сохранении книги с помощью Core Data, звездочка будет окрашена в черный цвет.
 <br><br>Во втором окне Tab Bar отображены все сохраненные ранее книги.
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <h2> Ещё скриншоты</h2>
 
 <a><img src="https://user-images.githubusercontent.com/45755611/138148483-cb0e1bcb-02db-423b-81a5-497ba6392077.png" align="left" height="844" width="390" ></a></h2>
